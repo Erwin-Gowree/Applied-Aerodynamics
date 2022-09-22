@@ -4,7 +4,7 @@ This repository contains a selection of codes, scripts and other materials devel
 
 ## Year 2021-2022
 
-# Aerofoil optimisation by means of genetic algorithm
+### Aerofoil optimisation by means of genetic algorithm
 Authors: A. Zigante, E. Foglia, A. Schioppa
 
 ### Structure and functionalities
