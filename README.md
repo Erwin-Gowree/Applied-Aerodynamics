@@ -21,5 +21,5 @@ As inputs the program requires a library of candidate shapes, to be stored in a 
 
 As output the program provides the best airfoil. A file called 'out.txt' allows to check the behaviour of the algorithm (has been particularly useful for bug detection and correction).
 
-### Aerofoil optimisation by means of genetic algorithm
+### Aerofoil optimisation by means of genetic algorithm - CST 
 Authors: Alvaro Achirica, Alvaro Martınez-Sanchez and Ferran Bodi
