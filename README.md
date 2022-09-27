@@ -5,7 +5,7 @@ This repository contains a selection of codes, scripts and other materials devel
 ## Year 2021-2022
 
 ### Aerofoil optimisation by means of genetic algorithm - CST 
-Authors: Alvaro Achirica-Villameriel, Alvaro Martınez-Sanchez and Ferran Bodi-LLuch
+Authors: Alvaro Achirica-Villameriel, Alvaro Martinez-Sanchez and Ferran Bodi-LLuch
 
 ### Aerofoil optimisation by means of genetic algorithm
 Authors: A. Zigante, E. Foglia, A. Schioppa
